@@ -50,7 +50,7 @@ The project is organized as follows:
 
 To install the required dependencies and set up the environment, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/sitamgithub-MSIT/PeekText.git`
+1. Clone the repository: `git clone https://github.com/sitamgithub-MSIT/jina-txtfy.git`
 2. Change the directory: `cd PeekText`
 3. Create a virtual environment: `python -m venv tutorial-env`
 4. Activate the virtual environment:
