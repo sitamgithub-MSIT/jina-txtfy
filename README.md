@@ -6,7 +6,7 @@ This repository contains the application that develops a web application that ex
 
 The project is organized as follows:
 
-- `assets/`: This directory contains screenshots of the web application for testing and cloud deployment.
+- `assets/`: This directory contains screenshots of the web application for testing.
 
 - `src/`: This directory contains the source code for the project.
 
@@ -51,7 +51,7 @@ The project is organized as follows:
 To install the required dependencies and set up the environment, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/sitamgithub-MSIT/jina-txtfy.git`
-2. Change the directory: `cd PeekText`
+2. Change the directory: `cd jina-txtfy`
 3. Create a virtual environment: `python -m venv tutorial-env`
 4. Activate the virtual environment:
    - For Windows: `tutorial-env\Scripts\activate`
